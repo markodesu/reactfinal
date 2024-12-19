@@ -13,3 +13,4 @@ This is a simple React application that fetches and displays a list of products 
 - **Frontend:** React.js
 - **Routing:** React Router DOM
 - **CSS:** Plain CSS (optional: can be customized to your needs)
+- ## was not able to add node modules.
